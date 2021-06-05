@@ -1,4 +1,13 @@
 # Final Project
+
+<p>The project was done using scrum and Agile team model with roles being switched along group members each iteration.</p>
+
+## The group members are
+- Mohammadreza Ghazvini
+- Sean Tam
+- Vaibhav Saini
+- Glory Quan
+
 ## Project Description
 <p> In your assigned group of ~4 students, complete three iterations of development on an assigned project. The details about this project, each iteration, and your group will go up here later in the course, after we complete the assignment component over the first six weeks. Your group will have to create a GitLab repository to be used for all three iterations, so be sure to add the TAs and instructor as members on the GitLab page to allow us access for marking.
 
