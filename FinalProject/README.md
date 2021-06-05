@@ -1,6 +1,6 @@
 # Final Project
 
-<p>The project was done using scrum and Agile team model with roles being switched along group members each iteration.</p>
+<p>The project was done using Agile team model with scrum roles being switched along group members each iteration.</p>
 
 ## The group members are
 - Mohammadreza Ghazvini
